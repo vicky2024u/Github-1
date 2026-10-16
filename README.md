@@ -4,7 +4,7 @@
 Programmer at TCS, transitioning into technical development
 - 🎓 MCA student at Jain University
 - 🚀 Skilled in Java, Spring Boot, microservices, and C data structures
-- 🌱 Currently mastering algorithms and 
+- 🌱 Currently mastering algorithms 
 
 ### Java Full Stack Developer
 
